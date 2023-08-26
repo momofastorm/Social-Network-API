@@ -1,0 +1,19 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "PROJECT DETAILS This undertaking involves the operational and backend aspects of a social media application. Throughout the course of this project, I gained extensive knowledge about mongoDB and mongoose. The application enables users to discover all registered users, retrieve information about a specific user, establish, modify, or remove user accounts, and manage a list of friends. Additionally, users have the ability to access collective and individual user thoughts. The application also supports the creation, editing, and deletion of individual thoughts, along with the option to add or remove reactions to a particular thought.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momofastorm/Social-Network-PI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momofastorm/Social-Network-PI/issues"
+  },
+  "homepage": "https://github.com/momofastorm/Social-Network-PI#readme"
+}
