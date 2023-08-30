@@ -4,8 +4,7 @@ This undertaking involves the operational and backend aspects of a social media 
 Installation
 Please install express, mongoose, and mongoDB. It is also necessary to have insomnia to run the CRUD operations.
 
-Usage
-Video walkthrough:
+
 
 Here is a list to use for the userRoutes:
 
